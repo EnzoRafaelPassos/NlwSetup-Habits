@@ -15,6 +15,7 @@
 
 O projeto Habits teve o intuito de ajudar o usuario a ter uma visão geral dos habitos cocnluidos e não concluidos
 
+- [Visite o projeto online] (https://enzorafaelpassos.github.io/NlwSetup-Habits/)
 <br>
 
 <hr>
